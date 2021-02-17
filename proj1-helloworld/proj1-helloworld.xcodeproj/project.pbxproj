@@ -15,6 +15,7 @@
 		5A5273D325DD6D0A007775DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A5273D125DD6D0A007775DB /* LaunchScreen.storyboard */; };
 		5A5273DE25DD6D0A007775DB /* proj1_helloworldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5273DD25DD6D0A007775DB /* proj1_helloworldTests.swift */; };
 		5A5273E925DD6D0A007775DB /* proj1_helloworldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5273E825DD6D0A007775DB /* proj1_helloworldUITests.swift */; };
+		5A5273FA25DD7114007775DB /* 92A19CEE-7408-418E-808D-CA839142AE87_1_105_c.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5A5273F925DD7114007775DB /* 92A19CEE-7408-418E-808D-CA839142AE87_1_105_c.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5A5273E425DD6D0A007775DB /* proj1-helloworldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "proj1-helloworldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A5273E825DD6D0A007775DB /* proj1_helloworldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = proj1_helloworldUITests.swift; sourceTree = "<group>"; };
 		5A5273EA25DD6D0A007775DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A5273F925DD7114007775DB /* 92A19CEE-7408-418E-808D-CA839142AE87_1_105_c.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "92A19CEE-7408-418E-808D-CA839142AE87_1_105_c.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				5A5273C625DD6D09007775DB /* AppDelegate.swift */,
 				5A5273C825DD6D09007775DB /* SceneDelegate.swift */,
 				5A5273CA25DD6D09007775DB /* ViewController.swift */,
+				5A5273F925DD7114007775DB /* 92A19CEE-7408-418E-808D-CA839142AE87_1_105_c.jpeg */,
 				5A5273CC25DD6D09007775DB /* Main.storyboard */,
 				5A5273CF25DD6D0A007775DB /* Assets.xcassets */,
 				5A5273D125DD6D0A007775DB /* LaunchScreen.storyboard */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A5273FA25DD7114007775DB /* 92A19CEE-7408-418E-808D-CA839142AE87_1_105_c.jpeg in Resources */,
 				5A5273D325DD6D0A007775DB /* LaunchScreen.storyboard in Resources */,
 				5A5273D025DD6D0A007775DB /* Assets.xcassets in Resources */,
 				5A5273CE25DD6D09007775DB /* Main.storyboard in Resources */,
